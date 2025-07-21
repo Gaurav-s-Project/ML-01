@@ -1,6 +1,6 @@
-# Student Reading Score Predictor 📊
+# Student Maths Score Predictor 📊
 
-This project is a simple machine learning web application that predicts a student's **reading score** based on their **math score**, **writing score**, and demographic features such as gender, race, parental education, lunch type, and test preparation status.
+This project is a simple machine learning web application that predicts a student's **Maths score** based on their **Reading score**, **writing score**, and demographic features such as gender, race, parental education, lunch type, and test preparation status.
 
 ## 🔍 Overview
 
